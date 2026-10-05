@@ -49,3 +49,16 @@ Payment Repository
    |
    v
 PostgreSQL Database
+```
+
+## API Testing
+
+The payment API was tested using Swagger/OpenAPI.
+
+![Swagger Payment Success](swagger-payment-success.png.png)
+
+## Database
+
+Payment transactions are stored in PostgreSQL.
+
+![PostgreSQL Payment Data](postgresql-payment-data.png.png)
